@@ -2,4 +2,4 @@
 
 ## SQL Server 2017 and SQL Server 2019 
 
-[Tiger Toolbox] (https://aka.ms/tigertoolbox)
+[Tiger Toolbox](https://aka.ms/tigertoolbox)

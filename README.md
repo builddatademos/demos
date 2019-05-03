@@ -10,3 +10,6 @@
 
 [SQL Server Workshops - Learning content produced by and curated by the SQL Server team in Microsoft Engineering](https://aka.ms/sqlworkshops)
 
+## Azure Stream Analytics
+
+[Real Time geospatial analytics on Taxi Cab telemetry with Azure Stream Analytics](https://github.com/sidramadoss/reference-architectures/tree/master/data/streaming_asa)

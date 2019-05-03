@@ -8,5 +8,5 @@
 
 [Build sessions that cover SQL Server 2019 Big Data Clusters and DataOps, SQL Server Java Extensibility, and Azure Cognitive Services in containers](https://github.com/amthomas46/SQL/tree/master/sql-build)
 
-[SQL Server Workshops - Learning content produced by and curated by the SQL Server team in Microsoft Engineering](https:/aka.ms/sqlworkshops)
+[SQL Server Workshops - Learning content produced by and curated by the SQL Server team in Microsoft Engineering](https://aka.ms/sqlworkshops)
 
